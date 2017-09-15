@@ -1,0 +1,60 @@
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\ComercioVirtual.dll.config
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\ComercioVirtual.dll
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\ComercioVirtual.pdb
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\EntityFramework.dll
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\EntityFramework.SqlServer.dll
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\System.Web.Helpers.dll
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\System.Web.Mvc.dll
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\System.Web.Razor.dll
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\System.Web.WebPages.dll
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\System.Web.WebPages.Razor.dll
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\EntityFramework.xml
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\EntityFramework.SqlServer.xml
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\System.Web.Helpers.xml
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\System.Web.Mvc.xml
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\System.Web.Razor.xml
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\System.Web.WebPages.xml
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\bin\System.Web.WebPages.Razor.xml
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.dll
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.pdb
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.Migrations.InitialCreate.resources
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.csproj.GenerateResource.Cache
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.Migrations.AddCategoria.resources
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.Migrations.AddImagemProduto.resources
+C:\Users\Avell G1511 FIRE\documents\visual studio 2013\Projects\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.Migrations.AddItemVenda.resources
+C:\Users\Avell G1511 FIRE\Documents\Visual Studio 2013\Projects\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.Migrations.AddDescricaoProduto.resources
+C:\Users\Avell G1511 FIRE\Documents\Visual Studio 2013\Projects\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.Migrations.AddUsuario.resources
+C:\Users\Avell G1511 FIRE\Documents\Visual Studio 2013\Projects\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\ComercioVirtual.dll.config
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\ComercioVirtual.dll
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\ComercioVirtual.pdb
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\EntityFramework.dll
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\EntityFramework.SqlServer.dll
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\System.Web.Helpers.dll
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\System.Web.Mvc.dll
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\System.Web.Razor.dll
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\System.Web.WebPages.dll
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\System.Web.WebPages.Razor.dll
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\EntityFramework.xml
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\EntityFramework.SqlServer.xml
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\System.Web.Helpers.xml
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\System.Web.Mvc.xml
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\System.Web.Razor.xml
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\System.Web.WebPages.xml
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\bin\System.Web.WebPages.Razor.xml
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.Migrations.InitialCreate.resources
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.Migrations.AddCategoria.resources
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.Migrations.AddImagemProduto.resources
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.Migrations.AddItemVenda.resources
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.Migrations.AddDescricaoProduto.resources
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.Migrations.AddUsuario.resources
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.dll
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.pdb
+C:\Users\Victor\Desktop\ComercioVirtual\ComercioVirtual\obj\Debug\ComercioVirtual.csproj.CoreCompileInputs.cache

@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "RemoverProduto";
+    ComercioVirtual.Models.Produto p = ViewBag.Produto;
+}
+
+@using (Html.BeginForm("Confirmacao", "Produto"))
+{
+    @Html.Hidden("txtProdutoId", p.ProdutoId)
+    <div class="form-horizontal">
+        <fieldset>
+
+            <legend style="margin-left:30px">Remover Produto</legend>
+
+            <div class="form-group">
+                @Html.Label("Nome", null, new { @class = "col-sm-2 control-label" })
+                <div class="form-inline">
+                    @Html.TextBox("txtNome", p.Nome, new { @class = "form-control", @style = "width:30%", @disabled = "" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.Label("Quantidade", null, new { @class = "col-sm-2 control-label" })
+                <div class="form-inline">
+                    @Html.TextBox("txtQuantidade", p.Quantidade, new { @class = "form-control", @style = "width:30%", @disabled = "" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.Label("Preço", null, new { @class = "col-sm-2 control-label" })
+                <div class="form-inline">
+                    @Html.TextBox("txtPreco", p.Preco, new { @class = "form-control", @style = "width:30%", @disabled = "" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.Label("Categoria", null, new { @class = "col-sm-2 control-label" })
+                <div class="form-inline">
+                    @Html.TextBox("txtCategoria", p.Categoria, new { @class = "form-control", @style = "width:30%", @disabled = "" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-sm-offset-2 col-sm-10">
+                    <input type="submit" value="Remover Produto"
+                           class="btn btn-danger" />
+                </div>
+            </div>
+        </fieldset>
+    </div>
+}

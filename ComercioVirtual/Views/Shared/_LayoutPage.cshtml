@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @if (Request.IsAuthenticated)
+                {
+                    @Html.ActionLink("Comércio Virtual", "Index", "Produto", null, new { @class = "navbar-brand" })
+                }
+                else
+                {
+                    @Html.ActionLink("Comércio Virtual", "ListarProdutos", "Produto", null, new { @class = "navbar-brand" })
+                }
+            </div>
+
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        @Html.ActionLink("Listar Produtos",
+                        "ListarProdutos", "Produto", null, new { @class = "navbar-brand" })
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav">
+                    <li>
+                        @Html.ActionLink("Meu Carrinho",
+                        "CarrinhoDeCompras", "ItemCompra", null, new { @class = "navbar-brand" })
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    @if (!Request.IsAuthenticated)
+                    {
+                        <li>
+                            @Html.ActionLink("Login",
+                        "Login", "Usuario", null, new { @class = "navbar-brand" })
+                        </li>
+                    }
+                    else
+                    {
+                        <li>
+                            @Html.Label("Olá, " + HttpContext.Current.User.Identity.Name, 
+                            new { @class = "navbar-brand" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Sair", "Logout", "Usuario", null, 
+                            new { @class = "navbar-brand" })
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div style="text-align:center; display:block">
+        <div style="width:70%; margin: 0 auto">
+            @RenderBody()
+        </div>
+    </div>
+
+    <hr />
+    <footer style="text-align:center">
+        <p> &copy; @DateTime.Now.Year - Comércio Virtual</p>
+    </footer>
+
+
+</body>
+
+</html>

@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "ListarProdutosPorCategoria";
+    List<ComercioVirtual.Models.Produto> produtos = ViewBag.Produtos;
+}
+
+<h2>ListarProdutosPorCategoria</h2>
+
+@Html.DropDownList("CategoriaId")
+<div id="divProdutos">
+    @{Html.RenderPartial("ListaDeProdutos", produtos);}
+</div>
+

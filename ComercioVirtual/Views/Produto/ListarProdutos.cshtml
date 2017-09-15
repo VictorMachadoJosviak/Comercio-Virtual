@@ -1,0 +1,22 @@
+﻿@model IEnumerable<ComercioVirtual.Models.Produto>
+
+@{
+    ViewBag.Title = "ListarProdutos";
+}
+
+<div class="row" style="padding:20px">
+    @foreach (var item in Model)
+    {
+        <div class="col-sm-6 col-md-3">
+            <div class="thumbnail">
+                <img style="width:150px;height:150px;" src="~/Images/@item.CaminhoImagem" />
+                <div class="caption">
+                    <h3>@Html.DisplayFor(modelItem => item.Nome)</h3>
+                </div>
+                <p>@item.Preco.ToString("C2")</p>
+                @Html.ActionLink("Adicionar", "AdicionarAoCarrinho", "ItemCompra",
+                    new { id = item.ProdutoId }, new { @class = "btn btn-info" })
+            </div>
+        </div>
+    }
+</div>
